@@ -13,7 +13,7 @@ import java.util.List;
 public class HollowTest {
 
 
-  public static void run() {
+  public static void publishAndAnnouncerTestDemo() {
 
     List<Movie> movies = Arrays
         .asList(new Movie(1, "The Matrix", 1999), new Movie(2, "Beasts of No Nation", 2015), new Movie(3, "Pulp Fiction", 1994));
@@ -38,7 +38,7 @@ public class HollowTest {
 
 
   public static void main(String[] args) {
-    HollowTest.run();
+    HollowTest.publishAndAnnouncerTestDemo();
   }
 
 }
